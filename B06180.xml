@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The trappan'd taylor: or, A warning to all taylors to beware how they marry. Shewing how a begger-wench being insinuated into a house of bawdery, was suddenly transformed out of rags into sliks [sic], flanting it each day with gallants, (yet passing for a maid.) A taylor living hard by, fell deep in love with her person, and afterwards married her, which was no sooner done, but the old bawd disrob'd her of the rich attire, and put on the raggs which she brought with her; to the great discontent of our Mousieur [sic] Sparveling. To the tune of, How many crowns and pounds have I spent, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674-1679?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06180</idno>
+            <idno type="STC">Wing T2050</idno>
+            <idno type="STC">Interim Tract Supplement Guide EBB65H[106]</idno>
+            <idno type="EEBO-CITATION">99887312</idno>
+            <idno type="PROQUEST">ocm99887312</idno>
+            <idno type="VID">182023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182023)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A2:4[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The trappan'd taylor: or, A warning to all taylors to beware how they marry. Shewing how a begger-wench being insinuated into a house of bawdery, was suddenly transformed out of rags into sliks [sic], flanting it each day with gallants, (yet passing for a maid.) A taylor living hard by, fell deep in love with her person, and afterwards married her, which was no sooner done, but the old bawd disrob'd her of the rich attire, and put on the raggs which she brought with her; to the great discontent of our Mousieur [sic] Sparveling. To the tune of, How many crowns and pounds have I spent, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F[rancis]. Coles, T[homas]. Vere, J[ohn]. Wright, and J[ohn]. Clarke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1674-1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I'le sing a song, and a dainty brave song ..."</note>
+                  <note>Date, place of publication and publishers' names from Wing..</note>
+                  <note>Reproduction of original in the Harvard University, Houghton Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182023:1"/>
+            <!-- PDF PAGE 10 -->
+            <head>The Trappand Taylor: <hi>OR,</hi> A Warning to all <hi>Taylors</hi> to beware how they Marry.</head>
+            <argument>
+               <p>
+                  <hi>Shewing how a Begger-wench being inſinuated into a houſe of Bawdery, was ſuddenly transformed out of Rags into ſiiks, flanting it each day with Gallants, (yet paſſing for a Maid.) A Taylor living hard by, fell deep in love with her perſon, and afterwards married her, which was no ſooner done, but the old Bawd diſrob'd her of the rich attire, and put on the Raggs which ſhe brought with her; to the great diſcontent of our <hi>Mouſieur Sparveling.</hi>
+                  </hi>
+               </p>
+            </argument>
+            <opener>To the Tune of, How many Crowns and pounds have I ſpent, &amp;c.</opener>
+            <p>
+               <figure>
+                  <head>tom y<hi rend="sup">e</hi> taler &amp; his wife Ione</head>
+               </figure>
+            </p>
+            <lg>
+               <l>I'Le ſing a Song, and a dainty brave Song,</l>
+               <l>it's neither of Seaman nor Saylor;</l>
+               <l>But to tell you the truth, it's a bonny brave Youth,</l>
+               <l>he's a finikin Vapouring Taylor.</l>
+            </lg>
+            <lg>
+               <l>It was in the prime of Cow cumber time,</l>
+               <l>when Taylors had very much leiſure;</l>
+               <l>This Gallant ſo nimble did caſt by his Thimble,</l>
+               <l>to ſport away time for his pleaſure.</l>
+            </lg>
+            <lg>
+               <l>A Begger-Wench chanced to <hi>London</hi> to come,</l>
+               <l>a Girl that had very good Features;</l>
+               <l>With begging about, an old Bawd ſpy'd her out,</l>
+               <l>for ſure there is many ſuch Creatures.</l>
+            </lg>
+            <lg>
+               <l>This cunning old Craft with ſubtle intent,</l>
+               <l>did find that the Laſs ſhe was willing;</l>
+               <l>She took the Wench in, and waſhed her clean,</l>
+               <l>and put on her very good Linnen.</l>
+            </lg>
+            <lg>
+               <l>She pull'd off her raggs, and gave her black baggs</l>
+               <l>and made her as fine as fine may be;</l>
+               <l>For ſhe was ſo ſmug, ſhe look'd like a Iugg,</l>
+               <l>and ſhe was as brisk as a Lady.</l>
+            </lg>
+            <lg>
+               <l>She gave her an art that ſhe acted her part,</l>
+               <l>as if ſhe had been an old ſtander;</l>
+               <l>She liked the Trade far better ſhe ſaid,</l>
+               <l>then abroad in the Country to wander.</l>
+            </lg>
+            <lg>
+               <l>She taught her the Trade to paſs for a Maid,</l>
+               <l>after ſhe had béen twenty times uſed:</l>
+               <l>And filly Fools they are cheated like gulls,</l>
+               <l>being baffled and baſely abuſed.</l>
+            </lg>
+            <lg>
+               <l>Oft times in the door like a crafty young Whore,</l>
+               <l>ſhe ſtands for to tempt in her Cullies:</l>
+               <l>And when they come in, ſhe'l teach them to ſin,</l>
+               <l>then dearly they pay for their follies.</l>
+            </lg>
+            <lg>
+               <l>But while ſhe did frisk, the Taylor ſo brisk,</l>
+               <l>it was his chance for to ſpy her:</l>
+               <l>She raviſht his heart before ſhe did part,</l>
+               <l>in hopes for to gain his deſire.</l>
+            </lg>
+            <lg>
+               <l>For verily ſhe pretended to be</l>
+               <l>a Country Gentlemans Daughter:</l>
+               <l>Came up the laſt Term new faſhions to learn,</l>
+               <l>but mark how ſhe fited him after.</l>
+            </lg>
+            <lg>
+               <l>He told her that he would marry with ſhe,</l>
+               <l>for he was a Man of regarding;</l>
+               <l>He gave her rich gifts to purchaſe his drifts,</l>
+               <l>for he was in hopes of a bargain.</l>
+            </lg>
+            <lg>
+               <l>By little and little ſhe ſeemed to yield,</l>
+               <l>being moved thereto by his carriage;</l>
+               <l>Pretending that ſhe will likewiſe agree</l>
+               <l>to joyn with him in lawful Marriage.</l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>BVt when the old Bawd found out their deſign,</l>
+               <l>ſhe ſwore ſhe will have ſatisfaction:</l>
+               <l>But the Taylor ſo ſad had not enough paid,</l>
+               <l>but ſhe preſently enter'd an Action.</l>
+            </lg>
+            <lg>
+               <l>She ſtripping the Bride, he ſtanding beſide,</l>
+               <l>like one that did ſcorn to diſown her:</l>
+               <l>He ceas'd his brags, when he ſaw his wifes rags,</l>
+               <l>and wiſh'd that he had never known her.</l>
+            </lg>
+            <lg>
+               <l>The rags the Whore knew for to be her own</l>
+               <l>to take them agen ſhe had reaſon:</l>
+               <l>And ſince ſhe did catch a blade that could patch,</l>
+               <l>he had patching work for a whole ſeaſon.</l>
+            </lg>
+            <lg>
+               <l>And thus ſhe did ſnap the Taylor in a Trap</l>
+               <l>to pay for his Wives apparel,</l>
+               <l>That ſhe had him lent, which made him repent,</l>
+               <l>it was but in vain for to quarrel.</l>
+            </lg>
+            <lg>
+               <l>And thus the poor Taylor was finely trappan'd,</l>
+               <l>he curs'd, he ſwore, and he vapour'd;</l>
+               <l>That made him to ſwear, and to pull off his hair,</l>
+               <l>like a Pigg in a Halter he caper'd.</l>
+            </lg>
+            <lg>
+               <l>He skipt and he jumpt, but ſure he was mumpt,</l>
+               <l>as well as ever was any:</l>
+               <l>A Begger-wench Bride to lye by his ſide,</l>
+               <l>may pleaſe him as well as a Lady.</l>
+            </lg>
+            <lg>
+               <l>And now we will leave him to kiſs up his Wife,</l>
+               <l>ſhe has enough to cool his courage;</l>
+               <l>Let Taylors beware and have a great care,</l>
+               <l>how they joyn with ſuch beggers in marriage.</l>
+            </lg>
+            <lg>
+               <l>Vnleſs that my Song it be tedious and long,</l>
+               <l>i'le end it with, hey down derry;</l>
+               <l>We put it in rhime this Cowcumber time,</l>
+               <l>that Taylors may laugh and be merry.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>printed for</hi> F. Coles, T. Vere, J. Wright, <hi>and</hi> J. Clarke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
